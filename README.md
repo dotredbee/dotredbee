@@ -1,4 +1,10 @@
-### Hi there 👋
+### ✨ P.Venti Profile
+Hi There  I'm Full Stack developer using js and python.🔥
+
+i'm interested in reading and writing.✍ i manage one blog.🔨
+i don't upload many posts.
+
+https://img.shields.io/github/followers/dotredbee?style=social
 
 <!--
 **dotredbee/dotredbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
