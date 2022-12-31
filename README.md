@@ -6,7 +6,7 @@ i don't upload many posts.
 
 
 
-## My New Account Spec 🌟 Account Name : P.Venti
+## New Account Spec 🌟 Account Name : P.Venti
 
 <img src="https://img.shields.io/github/followers/dotredbee?style=social"/>
 
@@ -14,7 +14,7 @@ i don't upload many posts.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotredbee&layout=compact&theme=transparent)
 
-## My Old Account Spec ⭐Account Name : Redhoneybee
+## Old Account Spec ⭐Account Name : Redhoneybee
 
 <img src="https://img.shields.io/github/followers/redhoneybee?style=social"/>
 
